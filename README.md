@@ -1,2 +1,3 @@
 # DC_Motor
-直流点击驱动 Arduino+L298N驱动板 + 外部串口 发码 控制 电机转动位置
+直流点击驱动Arduino + L298N驱动板+外部串口发码控制电机转动位置
+需要使用的arduino插件有PinChangeInt PID_v1升两个外加库可以从github载
